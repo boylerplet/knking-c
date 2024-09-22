@@ -1,0 +1,12 @@
+IndentWidth: 4
+BreakBeforeBraces: Linux
+
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: Empty 
+
+IndentCaseLabels: true
+AlignConsecutiveShortCaseStatements:
+  Enabled: true
+  AcrossEmptyLines: true
+  AcrossComments: true
+  AlignCaseColons: false 
